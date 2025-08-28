@@ -4,7 +4,7 @@
 
 Welcome to the official repository for my personal portfolio website. This project is a dynamic and visually engaging showcase of my skills, projects, and professional journey as a software developer. It is built with **React** and styled with **Tailwind CSS**, featuring a modern, interactive, and fully responsive design.
 
-**Live Site:** [**saloni-upadhyay.vercel.app**](https://your-live-site-url.vercel.app/) _(Replace with your actual Vercel link)_
+**Live Site:** [**saloni-upadhyay.vercel.app**](https://saloni-portfolio-wheat.vercel.app/) 
 
 ---
 
